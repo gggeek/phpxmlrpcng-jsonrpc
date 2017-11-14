@@ -9,6 +9,7 @@
         "phpxmlrpc/phpxmlrpc": "dev-future-v5"
     },
     "require-dev": {
+        "phpxmlrpc/debugger": "dev-master",
         "phpunit/phpunit": ">=4.0.0, <6.0.0",
         "phpunit/phpunit-selenium": "*",
         "codeclimate/php-test-reporter": "dev-master",
