@@ -6,7 +6,7 @@
     "keywords": [ "jsonrpc", "webservices" ],
     "require": {
         "php": ">=5.3.0",
-        "phpxmlrpc/phpxmlrpc": "dev-future-v5"
+        "phpxmlrpc/http": "dev-master"
     },
     "require-dev": {
         "phpxmlrpc/debugger": "dev-master",
